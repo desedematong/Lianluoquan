@@ -304,6 +304,7 @@ public class Register extends HttpServlet {
 	 */
 	public void init() throws ServletException {
 		// Put your code here
+		//测试提交
 	}
 
 }
